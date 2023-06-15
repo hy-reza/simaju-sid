@@ -7,11 +7,11 @@
 
 // Data Konfigurasi MySQL yang disesuaikan
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = 'containers-us-west-31.railway.app';
 $db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['port']     = 3306;
-$db['default']['database'] = 'simaju_db';
+$db['default']['password'] = '8T4D9RGPZTHJGZQCBaL0';
+$db['default']['port']     = 5465;
+$db['default']['database'] = 'railway';
 
 /*
 | Untuk setting koneksi database 'Strict Mode'
